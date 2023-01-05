@@ -1,7 +1,11 @@
 # SVM 
 
 ## Project Overview
-This repository contains files that explore machine learning modeling using SVM in python. This repo includes datasets, a jupyter notebook that explores SVM from the sklearn library, and a SVM presentation slide deck. The jupyter notebook explores the ideas of data preprocessing, feature engineering, model training, and hyperparameter tuning as it relates to SVM. This can be found in the file named svm.ipynb. Finally, within the slide deck, is a presentation given to the cohort regarding our findings on SVM. Some of the information contained in this document includes an overview of how SVM works, advantages and disadvantages of using SVM, preprocessing steps involved, and a dive into the hyperparameters of SVM. This can be found in the file named svm.pdf.
+This repository contains files that explore machine learning modeling using SVM in python. This repo includes datasets, a jupyter notebook that explores SVM from the sklearn library, and a SVM presentation slide deck. 
+### svm.ipynb
+The jupyter notebook explores the ideas of data preprocessing, feature engineering, model training, and hyperparameter tuning as it relates to SVM. This can be found in the file named svm.ipynb. 
+### svm.pdf
+The slides are a presentation given to the data cohort regarding our findings on SVM. Some of the information contained in this document includes an overview of how SVM works, advantages and disadvantages of using SVM, preprocessing steps involved, and a dive into the hyperparameters of SVM. This can be found in the file named svm.pdf.
 
 
 ## Datasets Used
